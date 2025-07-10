@@ -10,6 +10,6 @@ Use these in conjunction with Endor Labs SCA to parse API output into a simple C
 
 api_data_parser.py <input_json_file> <output_csv_file>
 
-### Compsre two CSVs containing <dependecny>,<version>
+### Compare two CSVs containing dependecny, version
 
 compare_csv.py <master.csv> <test.csv>
