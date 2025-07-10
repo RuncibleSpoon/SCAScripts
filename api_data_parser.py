@@ -32,7 +32,7 @@ def process_dependencies(input_filename, output_filename):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python process_dependencies.py <input_json_file> <output_csv_file>")
+        print("Usage: api_data_parser.py <input_json_file> <output_csv_file>")
         sys.exit(1)
 
     input_filename = sys.argv[1]
